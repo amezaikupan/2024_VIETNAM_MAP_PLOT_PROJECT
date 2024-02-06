@@ -2,5 +2,7 @@
 Create a library for Vietnam specific map plotting. 
 
 Goal:
-![Can map stuff like this]([http://url/to/img.png](https://flowingdata.com/wp-content/uploads/2024/01/ebird-populations-1090x907.png)https://flowingdata.com/wp-content/uploads/2024/01/ebird-populations-1090x907.png)
+![Can map stuff like this](Goal/01goal_flowing_data.png)
+![Can map stuff like this](Goal/02goal_flowing_data.jpg)
+
 
