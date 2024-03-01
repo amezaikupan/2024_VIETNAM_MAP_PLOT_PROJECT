@@ -1,0 +1,254 @@
+{
+  "H\u1ed3 Ch\u00ed Minh": {
+    "code": "SG",
+    "file_path": "./admin_data/SG.json"
+  },
+  "Ha\u0300 N\u00f4\u0323i": {
+    "code": "HN",
+    "file_path": "./admin_data/HN.json"
+  },
+  "\u0110\u00e0 N\u1eb5ng": {
+    "code": "DDN",
+    "file_path": "./admin_data/DDN.json"
+  },
+  "B\u00ecnh D\u01b0\u01a1ng": {
+    "code": "BD",
+    "file_path": "./admin_data/BD.json"
+  },
+  "S\u00f3c Tr\u0103ng": {
+    "code": "ST",
+    "file_path": "./admin_data/ST.json"
+  },
+  "Kon Tum": {
+    "code": "KT",
+    "file_path": "./admin_data/KT.json"
+  },
+  "Qu\u1ea3ng B\u00ecnh": {
+    "code": "QB",
+    "file_path": "./admin_data/QB.json"
+  },
+  "Qu\u1ea3ng Tr\u1ecb": {
+    "code": "QT",
+    "file_path": "./admin_data/QT.json"
+  },
+  "Tr\u00e0 Vinh": {
+    "code": "TV",
+    "file_path": "./admin_data/TV.json"
+  },
+  "H\u1eadu Giang": {
+    "code": "HGI",
+    "file_path": "./admin_data/HGI.json"
+  },
+  "S\u01a1n La": {
+    "code": "SL",
+    "file_path": "./admin_data/SL.json"
+  },
+  "B\u1ea1c Li\u00eau": {
+    "code": "BL",
+    "file_path": "./admin_data/BL.json"
+  },
+  "Y\u00ean B\u00e1i": {
+    "code": "YB",
+    "file_path": "./admin_data/YB.json"
+  },
+  "Tuy\u00ean Quang": {
+    "code": "TQ",
+    "file_path": "./admin_data/TQ.json"
+  },
+  "\u0110i\u1ec7n Bi\u00ean": {
+    "code": "DDB",
+    "file_path": "./admin_data/DDB.json"
+  },
+  "Lai Ch\u00e2u": {
+    "code": "LCH",
+    "file_path": "./admin_data/LCH.json"
+  },
+  "L\u1ea1ng S\u01a1n": {
+    "code": "LS",
+    "file_path": "./admin_data/LS.json"
+  },
+  "H\u00e0 Giang": {
+    "code": "HG",
+    "file_path": "./admin_data/HG.json"
+  },
+  "B\u1eafc K\u1ea1n": {
+    "code": "BK",
+    "file_path": "./admin_data/BK.json"
+  },
+  "Cao B\u1eb1ng": {
+    "code": "CB",
+    "file_path": "./admin_data/CB.json"
+  },
+  "B\u1eafc Giang": {
+    "code": "BG",
+    "file_path": "./admin_data/BG.json"
+  },
+  "H\u00f2a B\u00ecnh": {
+    "code": "HB",
+    "file_path": "./admin_data/HB.json"
+  },
+  "An Giang": {
+    "code": "AG",
+    "file_path": "./admin_data/AG.json"
+  },
+  "V\u0129nh Ph\u00fac": {
+    "code": "VP",
+    "file_path": "./admin_data/VP.json"
+  },
+  "T\u00e2y Ninh": {
+    "code": "TNI",
+    "file_path": "./admin_data/TNI.json"
+  },
+  "Th\u00e1i Nguy\u00ean": {
+    "code": "TN",
+    "file_path": "./admin_data/TN.json"
+  },
+  "L\u00e0o Cai": {
+    "code": "LCA",
+    "file_path": "./admin_data/LCA.json"
+  },
+  "Nam \u0110\u1ecbnh": {
+    "code": "NDD",
+    "file_path": "./admin_data/NDD.json"
+  },
+  "Qu\u1ea3ng Ng\u00e3i": {
+    "code": "QNG",
+    "file_path": "./admin_data/QNG.json"
+  },
+  "B\u1ebfn Tre": {
+    "code": "BTR",
+    "file_path": "./admin_data/BTR.json"
+  },
+  "\u0110\u1eafk N\u00f4ng": {
+    "code": "DNO",
+    "file_path": "./admin_data/DNO.json"
+  },
+  "C\u00e0 Mau": {
+    "code": "CM",
+    "file_path": "./admin_data/CM.json"
+  },
+  "V\u0129nh Long": {
+    "code": "VL",
+    "file_path": "./admin_data/VL.json"
+  },
+  "Ninh B\u00ecnh": {
+    "code": "NB",
+    "file_path": "./admin_data/NB.json"
+  },
+  "Ph\u00fa Th\u1ecd": {
+    "code": "PT",
+    "file_path": "./admin_data/PT.json"
+  },
+  "Ninh Thu\u1eadn": {
+    "code": "NT",
+    "file_path": "./admin_data/NT.json"
+  },
+  "Ph\u00fa Y\u00ean": {
+    "code": "PY",
+    "file_path": "./admin_data/PY.json"
+  },
+  "H\u00e0 Nam": {
+    "code": "HNA",
+    "file_path": "./admin_data/HNA.json"
+  },
+  "H\u00e0 T\u0129nh": {
+    "code": "HT",
+    "file_path": "./admin_data/HT.json"
+  },
+  "\u0110\u1ed3ng Th\u00e1p": {
+    "code": "DDT",
+    "file_path": "./admin_data/DDT.json"
+  },
+  "\u0110\u1ed3ng Nai": {
+    "code": "DNA",
+    "file_path": "./admin_data/DNA.json"
+  },
+  "Kh\u00e1nh H\u00f2a": {
+    "code": "KH",
+    "file_path": "./admin_data/KH.json"
+  },
+  "H\u1ea3i Ph\u00f2ng": {
+    "code": "HP",
+    "file_path": "./admin_data/HP.json"
+  },
+  "Long An": {
+    "code": "LA",
+    "file_path": "./admin_data/LA.json"
+  },
+  "Qu\u1ea3ng Nam": {
+    "code": "QNA",
+    "file_path": "./admin_data/QNA.json"
+  },
+  "B\u00e0 R\u1ecba V\u0169ng T\u00e0u": {
+    "code": "VT",
+    "file_path": "./admin_data/VT.json"
+  },
+  "\u0110\u1eafk L\u1eafk": {
+    "code": "DDL",
+    "file_path": "./admin_data/DDL.json"
+  },
+  "C\u1ea7n Th\u01a1": {
+    "code": "CT",
+    "file_path": "./admin_data/CT.json"
+  },
+  "B\u00ecnh Thu\u1eadn  ": {
+    "code": "BTH",
+    "file_path": "./admin_data/BTH.json"
+  },
+  "L\u00e2m \u0110\u1ed3ng": {
+    "code": "LDD",
+    "file_path": "./admin_data/LDD.json"
+  },
+  "Th\u1eeba Thi\u00ean Hu\u1ebf": {
+    "code": "TTH",
+    "file_path": "./admin_data/TTH.json"
+  },
+  "Ki\u00ean Giang": {
+    "code": "KG",
+    "file_path": "./admin_data/KG.json"
+  },
+  "B\u1eafc Ninh": {
+    "code": "BN",
+    "file_path": "./admin_data/BN.json"
+  },
+  "Qu\u1ea3ng Ninh": {
+    "code": "QNI",
+    "file_path": "./admin_data/QNI.json"
+  },
+  "Thanh H\u00f3a": {
+    "code": "TH",
+    "file_path": "./admin_data/TH.json"
+  },
+  "Ngh\u1ec7 An": {
+    "code": "NA",
+    "file_path": "./admin_data/NA.json"
+  },
+  "H\u1ea3i D\u01b0\u01a1ng": {
+    "code": "HD",
+    "file_path": "./admin_data/HD.json"
+  },
+  "Gia Lai": {
+    "code": "GL",
+    "file_path": "./admin_data/GL.json"
+  },
+  "B\u00ecnh Ph\u01b0\u1edbc": {
+    "code": "BP",
+    "file_path": "./admin_data/BP.json"
+  },
+  "H\u01b0ng Y\u00ean": {
+    "code": "HY",
+    "file_path": "./admin_data/HY.json"
+  },
+  "B\u00ecnh \u0110\u1ecbnh": {
+    "code": "BDD",
+    "file_path": "./admin_data/BDD.json"
+  },
+  "Ti\u1ec1n Giang": {
+    "code": "TG",
+    "file_path": "./admin_data/TG.json"
+  },
+  "Th\u00e1i B\u00ecnh": {
+    "code": "TB",
+    "file_path": "./admin_data/TB.json"
+  }
+}
